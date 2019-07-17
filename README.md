@@ -21,6 +21,7 @@ Set `GOOGLE_MAPS_API_KEY` environment variable with your [Google Maps API key](h
 - Combine a set of KML files
 - Show timestamps between KML `Placemark`s.
 - Figure out localized category names for other languages and map them to same icons.
+- Select best possible zoom level based on the coordinates.
 
 ## License
 
