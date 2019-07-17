@@ -1,0 +1,16 @@
+#map {
+  height: 90%;
+}
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+#buttons {
+  position: absolute;
+  left: 13rem;
+  top: 2rem;
+}
+#buttons button {
+  letter-spacing: 0.1rem;
+}
